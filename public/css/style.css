@@ -1,0 +1,25 @@
+/* style.css */
+a {
+  color: #navy;
+}
+
+.container {
+  width: 80%;
+  border: 1px solid #ccc;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+input {
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.post-list li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
